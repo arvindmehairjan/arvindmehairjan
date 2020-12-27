@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python Development, Full Stack Development, Testing and Automation**
 
-- 📝 I regulary write articles on [helloiamarra.com](helloiamarra.com)
+- 📝 I regulary write articles on [https://dev.to/arvindmehairjan](https://dev.to/arvindmehairjan)
 
 - 💬 Ask me about **Selenium, JavaScript, Cypress, Specflow, RPA, Software Testing, Jenkins and much more**
 
