@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Intermediate Python**
 
-- 👯 I’m looking to collaborate on **VR Development**
-
-- 👨‍💻 All of my projects are available at [helloiamarra.com](helloiamarra.com)
+- 👯 I’m looking to collaborate on **Python Development, Full Stack Development, Testing and Automation**
 
 - 📝 I regulary write articles on [helloiamarra.com](helloiamarra.com)
 
