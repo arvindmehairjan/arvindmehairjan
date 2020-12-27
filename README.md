@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvind Mehairjan</h1>
-<h3 align="center">A software developer who breaks, build and test stuff things.</h3>
+<h3 align="center">A software developer who breaks, build and test things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvindmehairjan" alt="arvindmehairjan" /> </p>
 
