@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvindmehairjan" alt="arvindmehairjan" /> </p>
 
-- 🔭 I’m currently working on [SASS Landing Page](https://github.com/arvindmehairjan/sass-landingpage-tutorial)
+- 🔭 I’m currently working on [100 Projects With Python](https://www.udemy.com/course/100-days-of-code/)
 
 - 🌱 I’m currently learning **Intermediate Python**
 
