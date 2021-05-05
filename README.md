@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvindmehairjan" alt="arvindmehairjan" /> </p>
 
-- 🔭 I’m currently working on [100 Projects With Python](https://www.udemy.com/course/100-days-of-code/)
-
-- 🌱 I’m currently learning **Intermediate Python**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Python Development, Full Stack Development, Testing and Automation**
 
 - 📝 I regulary write articles on [https://dev.to/arvindmehairjan](https://dev.to/arvindmehairjan)
 
-- 💬 Ask me about **Selenium, JavaScript, Cypress, Specflow, RPA, Software Testing, Jenkins and much more**
+- 💬 Ask me about **JavaScript, Python, React, Automation, Full Stack Development and much more**
 
 - 📫 How to reach me **contact@arvind-mehairjan.com**
 
@@ -20,10 +18,8 @@
 ### 📝 Latest articles from [dev.to](https://dev.to/helloiamarra)
 
 * Aug 29 2020 [Why You Are Not An Imposter](https://dev.to/helloiamarra/why-you-are-not-an-imposter-1cfj) 
-* Aug 24 2020 [Cypress.io End-to-End Testing Tutorial for Beginners](https://dev.to/helloiamarra/cypress-io-end-to-end-testing-tutorial-for-beginners-312b) 
 * Jul 23 2020 [What Is The Fetch API in JS?](https://dev.to/helloiamarra/what-is-the-fetch-api-in-js-3m9d) 
 * Jul 10 2020 [How To Build A Custom Linktree Page With HTML & CSS (for Beginners)](https://dev.to/helloiamarra/how-to-build-a-custom-linktree-page-with-html-css-for-beginners-44i3) 
-* May 20 2020 [Kind reminder to not focus too much on a new framework/library/tool/whatever](https://dev.to/helloiamarra/kind-reminder-to-not-focus-too-much-on-a-new-framework-libraries-tools-whatever-19e5) 
 <p align="center">
 
 
