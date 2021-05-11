@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Python Development, Full Stack Development, Testing and Automation**
+- 👯 I’m looking to collaborate on **Python Development, Full Stack Development, Front End Development and Automation**
 
 - 📝 I regulary write articles on [https://dev.to/arvindmehairjan](https://dev.to/arvindmehairjan)
 
@@ -17,7 +17,6 @@
 
 ### 📝 Latest articles from [dev.to](https://dev.to/helloiamarra)
 
-* Aug 29 2020 [Why You Are Not An Imposter](https://dev.to/helloiamarra/why-you-are-not-an-imposter-1cfj) 
 * Jul 23 2020 [What Is The Fetch API in JS?](https://dev.to/helloiamarra/what-is-the-fetch-api-in-js-3m9d) 
 * Jul 10 2020 [How To Build A Custom Linktree Page With HTML & CSS (for Beginners)](https://dev.to/helloiamarra/how-to-build-a-custom-linktree-page-with-html-css-for-beginners-44i3) 
 <p align="center">
